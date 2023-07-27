@@ -29,9 +29,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
-'''![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon)](https://github.com/anuraghazra/github-readme-stats)
-'''![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon&size_weight=0.75&count_weight=0.75)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon&hide=html,HTML)
 
 ![Menon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomenon&show_icons=true&theme=transparent)
