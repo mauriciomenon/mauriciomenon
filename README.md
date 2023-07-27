@@ -29,5 +29,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomenon&show_icons=true&theme=transparent)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![Menon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomenon&show_icons=true&theme=transparent)
+[![Menon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mauriciomenon)](https://github.com/mauriciomenon/github-readme-stats)
