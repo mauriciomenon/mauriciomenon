@@ -31,3 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon&hide=html,HTML&layout=compact&langs_count=8&theme=transparent)
 ![Menon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomenon&show_icons=true&theme=transparent)
+https://gh-stats-gen.vercel.app/
