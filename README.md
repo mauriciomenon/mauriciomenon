@@ -14,7 +14,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon&hide=html,teX,InnoSetup,HTML&layout=compact&langs_count=8&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon&hide=html,teX,InnoSetup,HTML&layout=compact&langs_count=12&theme=transparent)
 ![Menon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomenon&show_icons=true&theme=transparent)
 
 
