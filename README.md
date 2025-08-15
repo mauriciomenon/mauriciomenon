@@ -18,7 +18,6 @@
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff)](#)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciomenon&hide=html,teX,InnoSetup,HTML&layout=compact&langs_count=8&theme=transparent)
 ![Menon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciomenon&show_icons=true&theme=transparent)
