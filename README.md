@@ -3,7 +3,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
 ![Devuan](https://img.shields.io/badge/Devuan-404A7A?logo=devuan&logoColor=white)
 ![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?logo=artixlinux&logoColor=white)
-![Slackware](https://img.shields.io/badge/Slackware-000000?logo=slackware&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4)
 ![HP-UX](https://img.shields.io/badge/HP--UX-0096D6?logo=hp&logoColor=white)
