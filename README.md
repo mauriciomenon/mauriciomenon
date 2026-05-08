@@ -28,13 +28,11 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white)
-![Socket.dev](https://img.shields.io/badge/Socket.dev-111111?logo=socket&logoColor=white)
 ![Semgrep](https://img.shields.io/badge/Semgrep-1F1F1F)
 ![ShellCheck](https://img.shields.io/badge/ShellCheck-4EAA25)
 ![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-5391FE)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?logo=zedindustries&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-000000?logo=ghostty&logoColor=white)
 
