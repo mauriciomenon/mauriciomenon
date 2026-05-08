@@ -1,21 +1,13 @@
-### Systems
-
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white)
 ![Devuan](https://img.shields.io/badge/Devuan-404A7A?style=for-the-badge&logo=devuan&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-
-### Shell and automation
-
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-
-### Languages and data
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -28,16 +20,11 @@
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 
-### Python tooling
-
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 ![ty](https://img.shields.io/badge/ty-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
-### Tools
-
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)
@@ -54,19 +41,12 @@
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Security
-
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Socket.dev](https://img.shields.io/badge/Socket.dev-111111?style=for-the-badge&logo=socket&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
-
-### Virtualization and storage
-
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
-
-### Review later
 
 ![Semgrep](https://img.shields.io/badge/Semgrep-1F1F1F?style=for-the-badge)
 ![Bandit](https://img.shields.io/badge/Bandit-111111?style=for-the-badge)
