@@ -28,6 +28,14 @@
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
 
+### Python tooling
+
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![ty](https://img.shields.io/badge/ty-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 ### Tools
 
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
@@ -39,6 +47,10 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-555555?style=for-the-badge&logo=gnu&logoColor=white)
+![Make](https://img.shields.io/badge/Make-555555?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -46,6 +58,8 @@
 
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Socket.dev](https://img.shields.io/badge/Socket.dev-111111?style=for-the-badge&logo=socket&logoColor=white)
+![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=for-the-badge&logo=github&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
 ### Virtualization and storage
 
@@ -62,6 +76,10 @@
 ![ZFS](https://img.shields.io/badge/ZFS-2F6F9F?style=for-the-badge)
 ![AWK](https://img.shields.io/badge/AWK-555555?style=for-the-badge)
 ![sed](https://img.shields.io/badge/sed-555555?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![ShellCheck](https://img.shields.io/badge/ShellCheck-4EAA25?style=for-the-badge)
+![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-5391FE?style=for-the-badge)
+![tcpdump](https://img.shields.io/badge/tcpdump-555555?style=for-the-badge)
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=transparent)
 ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauriciomenon&theme=transparent)
