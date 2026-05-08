@@ -64,12 +64,7 @@
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=transparent)
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=transparent)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=transparent)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauriciomenon&theme=transparent&utcOffset=-3)
-
-
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mauriciomenon&theme=react-dark&hide_border=true)
-
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=mauriciomenon&theme=transparent&hide_border=true)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=mauriciomenon&theme=darkhub&no-frame=true&margin-w=8)
 
