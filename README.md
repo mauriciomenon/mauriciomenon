@@ -10,7 +10,6 @@
 ![Sun](https://img.shields.io/badge/Sun-ED1C24?style=for-the-badge)
 ![Solaris](https://img.shields.io/badge/Solaris-C74634?style=for-the-badge)
 ![ZFS](https://img.shields.io/badge/ZFS-2F6F9F?style=for-the-badge)
-
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
@@ -20,7 +19,6 @@
 ![sed](https://img.shields.io/badge/sed-555555?style=for-the-badge)
 ![Tcl](https://img.shields.io/badge/Tcl-1F5CB8?style=for-the-badge)
 ![Tk](https://img.shields.io/badge/Tk-1F5CB8?style=for-the-badge)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -30,7 +28,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Apache Ant](https://img.shields.io/badge/Apache_Ant-A81C7D?style=for-the-badge&logo=apacheant&logoColor=white)
@@ -39,7 +36,6 @@
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
 ![ty](https://img.shields.io/badge/ty-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
@@ -56,7 +52,6 @@
 ![Bison](https://img.shields.io/badge/Bison-555555?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Socket.dev](https://img.shields.io/badge/Socket.dev-111111?style=for-the-badge&logo=socket&logoColor=white)
 ![CodeQL](https://img.shields.io/badge/CodeQL-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -66,7 +61,6 @@
 ![Vulture](https://img.shields.io/badge/Vulture-333333?style=for-the-badge)
 ![ShellCheck](https://img.shields.io/badge/ShellCheck-4EAA25?style=for-the-badge)
 ![PSScriptAnalyzer](https://img.shields.io/badge/PSScriptAnalyzer-5391FE?style=for-the-badge)
-
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![OpenRC](https://img.shields.io/badge/OpenRC-4B5563?style=for-the-badge)
