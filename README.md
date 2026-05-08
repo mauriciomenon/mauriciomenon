@@ -2,7 +2,6 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
 ![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?logo=artixlinux&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white)
-![HP-UX](https://img.shields.io/badge/HP--UX-0096D6?logo=hp&logoColor=white)
 ![Solaris](https://img.shields.io/badge/Solaris-C74634)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4)
 ![OpenRC](https://img.shields.io/badge/OpenRC-4B5563)
