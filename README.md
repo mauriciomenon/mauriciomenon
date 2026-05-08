@@ -62,10 +62,10 @@
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=transparent)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauriciomenon&theme=transparent)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=transparent)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=transparent)
 ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauriciomenon&theme=transparent&utcOffset=-3)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=transparent)
+
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mauriciomenon&theme=react-dark&hide_border=true)
 
