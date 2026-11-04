@@ -57,4 +57,10 @@
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=transparent)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=transparent" width="360" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=transparent" width="360" />
-![Trophy](https://github-profile-trophy.vercel.app/?username=mauriciomenon&theme=darkhub&no-frame=true&margin-w=5&column=8&row=1)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=prussian&animation=load&name=mauriciomenon)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=prussian&animation=load&exclude=Tex%2CHTML%2CCSS%2CLatex%2C)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=prussian&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauriciomenon&theme=prussian&animation=load&utcOffset=-3)
+
+
