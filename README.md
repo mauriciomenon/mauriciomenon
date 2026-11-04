@@ -56,8 +56,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=prussian&animation=load&name=mauriciomenon)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=prussian&animation=load&exclude=Tex%2CHTML%2CCSS%2CLatex%2C)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=prussian&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauriciomenon&theme=prussian&animation=load&exclude=Tex%2CHTML%2CCSS%2CLatex%2C)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauriciomenon&theme=prussian&animation=load&utcOffset=-3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauriciomenon&theme=prussian&animation=load&exclude=Tex%2CHTML%2CCSS%2CLatex%2C)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=prussian&animation=load)
 
 
