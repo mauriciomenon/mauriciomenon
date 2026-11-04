@@ -54,13 +54,10 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#)
 
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=transparent)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=transparent" width="360" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=transparent" width="360" />
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauriciomenon&theme=prussian&animation=load&name=mauriciomenon)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauriciomenon&theme=prussian&animation=load&exclude=Tex%2CHTML%2CCSS%2CLatex%2C)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauriciomenon&theme=prussian&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauriciomenon&theme=prussian&animation=load&exclude=Tex%2CHTML%2CCSS%2CLatex%2C)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauriciomenon&theme=prussian&animation=load&utcOffset=-3)
 
 
