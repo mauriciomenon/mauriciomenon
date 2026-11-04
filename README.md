@@ -50,7 +50,6 @@
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?logo=zedindustries&logoColor=white)
-![Ghostty](https://img.shields.io/badge/Ghostty-000000?logo=ghostty&logoColor=white)
 [![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#)
