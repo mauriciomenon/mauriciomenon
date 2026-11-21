@@ -63,9 +63,9 @@
 xxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxx
 
-![](https://github.com/[mauriciomenon]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/[mauriciomenon]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/[mauriciomenon]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/[mauriciomenon]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![1](https://github.com/[mauriciomenon]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![2](https://github.com/[mauriciomenon]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![3](https://github.com/[mauriciomenon]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![4](https://github.com/[mauriciomenon]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
