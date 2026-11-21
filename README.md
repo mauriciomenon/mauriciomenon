@@ -64,4 +64,8 @@ xxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxx
 
 [![](https://raw.githubusercontent.com/mauriciomenon/github-statistics/refs/heads/main/output/repositories/mauriciomenon/github-statistics.svg)](https://github.com/mauriciomenon/github-statistics)
+[![](https://raw.githubusercontent.com/tanjeffreyz/github-statistics/refs/heads/main/output/repositories/tanjeffreyz/github-statistics.svg)](https://github.com/mauriciomenon/github-statistics)
+[![](https://raw.githubusercontent.com/tanjeffreyz/github-statistics/refs/heads/main/output/repositories/mauriciomenon/github-statistics.svg)](https://github.com/mauriciomenon/github-statistics)
+[![](https://raw.githubusercontent.com/tanjeffreyz/github-statistics/refs/heads/main/output/repositories/mauriciomenon/github-statistics.svg)](https://github.com/tanjeffreyz/github-statistics)
+[![](https://raw.githubusercontent.com/tanjeffreyz/github-statistics/refs/heads/main/output/repositories/tanjeffreyz/github-statistics.svg)](https://github.com/tanjeffreyz/github-statistics)
 
